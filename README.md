@@ -11,6 +11,8 @@ Evaluar diferentes hipótesis mediante pruebas estadísticas para validar difere
 ---
 
 ## 📁 Estructura del Proyecto
+
+```
 hipotesis1_tstudent/
 │── h1_tstudent.ipynb
 │── tstudent_algoritmos.xlsx
@@ -30,7 +32,7 @@ hipotesis4_pearson/
 │── h4_pearson.ipynb
 │── correlacion_servidor.xlsx
 │── H4_pearson.png
-
+```
 ---
 
 ## 📌 Hipótesis Evaluadas
@@ -91,8 +93,9 @@ Esto indica diferencias significativas o relaciones fuertes entre las variables 
 
 ---
 
-## 📌 Autor
-
+## 📌 Autores
+-  Chavez Apaza Marcos
+-  Villaverde Pacheco Fabiola Karina
 Proyecto académico — Ingeniería de Sistemas  
 Análisis estadístico aplicado a problemas reales de computación y redes.
 
